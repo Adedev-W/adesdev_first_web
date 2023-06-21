@@ -1,0 +1,17 @@
+.banner {
+  background: url("banner.png")
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+ 
+}
+
+@media only screen and (max-width: 650px) {
+	.banner {padding-bottom: 120%;}
+
+}
+
+
+
